@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650527833463",
+    "firebase_url": "https://fource-update-first.firebaseio.com",
+    "project_id": "fource-update-first",
+    "storage_bucket": "fource-update-first.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650527833463:android:3dc287b1fddc43aab8b572",
+        "android_client_info": {
+          "package_name": "com.example.fourceupdatefirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650527833463-57pjscbgv1uhmmuutc23a3ibhbq7uflp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fourceupdatefirst",
+            "certificate_hash": "054b55930944fd55c74d21276791b24b3199222d"
+          }
+        },
+        {
+          "client_id": "650527833463-5kegache9t8716lhs8uoa898sjk7or3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp6j0JgTHCZ_MzMtUXFeYieLjBDiQO10M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650527833463-5kegache9t8716lhs8uoa898sjk7or3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
